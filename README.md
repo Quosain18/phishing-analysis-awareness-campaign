@@ -1,4 +1,4 @@
-# phishing-analysis-awareness-campaign
+# Phishing Analysis Awareness Campaign
 
 Project Overview:
 This project examines five suspicious email samples to understand phishing techniques, identify warning signs, and improve employee cybersecurity awareness.
